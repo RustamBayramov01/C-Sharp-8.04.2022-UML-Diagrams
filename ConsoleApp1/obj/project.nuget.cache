@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "57Cd5JJ4h4T1A3WlPqHtwHPsQYhDNx0+2CXoQLWIqGLP3yAPZDwo87WzGo1Tpvqp94xWasoLC3k22ae9fHE8mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LITHIUM\\Desktop\\UML Diagramsss\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LITHIUM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
